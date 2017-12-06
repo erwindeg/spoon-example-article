@@ -1,4 +1,4 @@
-package nl.edegier.analyzer;
+package nl.edegier.spoon;
 
 import nl.edegier.annotation.GetSet;
 import spoon.processing.AbstractProcessor;

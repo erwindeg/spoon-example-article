@@ -1,4 +1,4 @@
-package nl.edegier.analyzer;
+package nl.edegier.spoon;
 
 import spoon.Launcher;
 import spoon.SpoonAPI;
